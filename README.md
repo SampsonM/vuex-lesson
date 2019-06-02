@@ -138,6 +138,8 @@ mutations: {
 
 ## Getters?
 
+*These aren't initially seen in the demo but can be added with the same syntax as  the actions, state etc*
+
 ### What are they?
 
 - Getters are app wide computed functions, they are functions that return some data from the state and are then cached and only update if a dependency changes
